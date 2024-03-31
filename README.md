@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rishabh-1509
-- 👀 I’m interested in machine learning artificaly intelligence i also do app development 
+- 👀 I’m interested in machine learning and AI
+-     I also do app development 
 - 🌱 I’m currently learning machine learnign and deep learnig 
 - 💞️ I’m looking to collaborate on my new flutter application project
 - 📫 How to reach me -  mail me rishabh09dwivedi@gmail.com
