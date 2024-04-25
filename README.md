@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and AI
 -     I also do app development 
 - 🌱 I’m currently learning machine learnign and deep learnig 
-- 💞️ I’m looking to collaborate on my new flutter application project
+- 💞️ I’m looking to collaborate on my new Deep learning project
 - 📫 How to reach me -  mail me rishabh09dwivedi@gmail.com
 - 😄 Pronouns: HE/HIM
 
