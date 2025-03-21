@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rishabh-1509
 - 👀 I’m interested in LLM and RAG Models
--     I also do app development 
 - 🌱 I’m currently learning LLM and GAN nueral networks 
 - 💞️ I’m looking to collaborate on my new AI  project
 - 📫 How to reach me -  mail me rishabh09dwivedi@gmail.com
